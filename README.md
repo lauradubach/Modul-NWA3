@@ -1,2 +1,6 @@
-# Modul-NWA3
-NWA3
+# Labor 1
+
+## DHCP Konfig
+
+/ip dhcp-client add interface=ether2 disabled=no
+
